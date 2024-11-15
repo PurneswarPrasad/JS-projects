@@ -40,7 +40,6 @@
   background: rgba(255, 255, 255, 0.7);
   border-radius: 6px;
   overflow: hidden;
-  
 }
 
 .options {
@@ -64,5 +63,5 @@
 }
 
 .rotate {
-    transform: rotate(180deg);
+  transform: rotate(180deg);
 }
